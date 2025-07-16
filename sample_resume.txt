@@ -1,0 +1,4 @@
+John Doe
+Email: johndoe@example.com
+Experienced Data Analyst skilled in Python, Data Analysis, and Machine Learning.
+Strong communication and teamwork abilities.
